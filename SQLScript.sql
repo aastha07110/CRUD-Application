@@ -1,5 +1,5 @@
-CREATE DATABASE foodiedb;
-USE foodiedb;
+CREATE DATABASE finalproject;
+USE finalproject;
 
 CREATE TABLE Users (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
